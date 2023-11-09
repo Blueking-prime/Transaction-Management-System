@@ -1,2 +1,2 @@
 # Transaction-Management-System
-Transaction management system
+This Transaction Management system built in C uses the SQLite and cJSON libraries.
