@@ -31,15 +31,15 @@ It allows you to perform multiple operations including:
 
 - Git clone the repo
 
-        $ git clone https://github.com/Blueking-prime/Transaction-Management-System
+        git clone https://github.com/Blueking-prime/Transaction-Management-System
 
 - Navigate into the folder and compile, making sure to link the required libraries
 
-        $ gcc *.c -l sqlite3 -o TMS
+        gcc *.c -l sqlite3 -o TMS
 
 - Run the output file
 
-        $ ./TMS
+        ./TMS
 
 - Start operating in the interactive shell
 
